@@ -256,7 +256,7 @@ def getRandomPredefined():
     'happy halloween',
     'michael myers',
     'friday the thirteenth',
-    'a nightmare on edwards st',
+    'a nightmare on elm st',
     'wutang forever',
     'trevor belmont',
     'castlevania',
